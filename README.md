@@ -1,12 +1,38 @@
 # React + Vite
+# 🎯 Career Interest Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive web app built with **React** and **Vite** that helps users discover potential career paths based on their interests. Whether you're into business, art, engineering, or more — this app will guide you toward career options that align with your passions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Simple and engaging interest selection interface
+- 🎨 Dynamic career suggestions based on selected interests
+- ⚡ Built with fast and modern tools: React + Vite
+- 💡 Clean UI and responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Demo
+
+Coming soon... (or deploy with [Vercel](https://vercel.com/) / [Netlify](https://www.netlify.com/)!)
+
+---
+
+## 🛠️ Getting Started
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/career-interest-explorer.git
+
+# Navigate into the project directory
+cd career-interest-explorer
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
