@@ -16,7 +16,7 @@ An interactive web app built with **React** and **Vite** that helps users discov
 
 ## 🖼️ Demo
 
-Coming soon... (or deploy with [Vercel](https://vercel.com/) / [Netlify](https://www.netlify.com/)!)
+Coming soon... 
 
 ---
 
@@ -26,10 +26,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/career-interest-explorer.git
+git clone https://github.com/Sharma262/Career_compass.git
 
 # Navigate into the project directory
-cd career-interest-explorer
+cd Career_compass
 
 # Install dependencies
 npm install
